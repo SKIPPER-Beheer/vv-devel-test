@@ -1,0 +1,63 @@
+.logo{
+    width: 11.3vw;
+    height: 8.7vw;
+    object-fit: cover;
+    position: fixed;
+    left: 2vw;
+    top: 0;
+
+}
+
+
+#background-video {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: -100;
+}
+
+h2 {
+    color: white;
+    font-family: Trebuchet MS;
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 50vh;
+    font-size: 3rem;
+}
+
+button1 {
+    position: relative;
+    font-family: Trebuchet MS;
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 55vh;
+    font-size: 1rem;
+    margin: 0 40px;
+    padding: 15px 30px;
+    letter-spacing: 1px;
+    cursor:pointer;
+    
+}
+
+button2 {
+    position: relative;
+    font-family: Trebuchet MS;
+    font-weight: bold; 
+    text-align: center;
+    margin-top: 55vh;
+    font-size: 2rem;
+}
+.footer{
+    
+    font-family: Trebuchet MS;
+    font-weight: bold; 
+    text-align: center;
+    font-size: 3rem;
+    margin-top: 100vh;
+
+}
