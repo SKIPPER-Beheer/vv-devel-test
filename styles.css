@@ -1,63 +1,74 @@
-.logo{
+/*positie van het logo */
+.logo1{
     width: 11.3vw;
     height: 8.7vw;
     object-fit: cover;
     position: fixed;
     left: 2vw;
     top: 0;
-
+    z-index: -50;
 }
 
-
-#background-video {
-    width: 100vw;
-    height: 100vh;
-    object-fit: cover;
-    position: fixed;
+/*positie & opmaakvan de vraag*/
+.question1{
+    position:absolute;
+    top: 30vh;
     left: 0;
-    right: 0;
+    right:0;
+    text-align: center;
+    color: ivory;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3dvw;
+    font-weight: bold;
+
+} 
+
+html, body {
+    margin: 0;
+  }
+  #wrapper{
+    position: relative;
+    height: 85vh;
+    overflow: hidden;
+    z-index: -98;
+  }
+  #featured {
+    position: absolute;
+    width: calc(100vh * (1000 / 562));    /*  video width / height  */
+    height: calc(100vw * (562 / 1000));   /*  video height / width  */
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: -99;
+  }
+  video {
+    position: absolute;
     top: 0;
-    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     z-index: -100;
-}
+  }
 
-h2 {
-    color: white;
-    font-family: Trebuchet MS;
-    font-weight: bold; 
+  .mind{
+    position:absolute;
+    top: 89vh;
+    left: 30vw;
+    right: 30vw;
+    font-size: 1dvw;
+    color: #0d253d;
+    background-color: #fcaf00;
     text-align: center;
-    margin-top: 50vh;
-    font-size: 3rem;
-}
+    word-wrap: normal;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 50px;
+        border: 3px solid #fcaf0;
+        
 
-button1 {
-    position: relative;
-    font-family: Trebuchet MS;
-    font-weight: bold; 
-    text-align: center;
-    margin-top: 55vh;
-    font-size: 1rem;
-    margin: 0 40px;
-    padding: 15px 30px;
-    letter-spacing: 1px;
-    cursor:pointer;
     
-}
-
-button2 {
-    position: relative;
-    font-family: Trebuchet MS;
-    font-weight: bold; 
-    text-align: center;
-    margin-top: 55vh;
-    font-size: 2rem;
-}
-.footer{
     
-    font-family: Trebuchet MS;
-    font-weight: bold; 
-    text-align: center;
-    font-size: 3rem;
-    margin-top: 100vh;
-
-}
+  }
