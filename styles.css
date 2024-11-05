@@ -15,7 +15,7 @@ html, body {
     height: 8.7vw;
     object-fit: cover;
     position: fixed;
-    left: 2vw;
+    left: 2dvw;
     top: 0;
     z-index: -50;
 }
