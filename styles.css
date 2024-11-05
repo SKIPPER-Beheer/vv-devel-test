@@ -67,16 +67,12 @@ html, body {
     top: 89vh;
     left: 30vw;
     right: 30vw;
-    font-size: 1dvw;
+    font-size: 2dvw;
     color: #0d253d;
     background-color: #fcaf00;
-    text-align: center;
     word-wrap: normal;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        height: 50px;
-        border: 3px solid #fcaf00;
+    height: 50px;
+    border: 3px solid #fcaf00;
      }
 
      /*Hamburger Menu*/
