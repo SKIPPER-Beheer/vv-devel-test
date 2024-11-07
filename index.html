@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>VEILIG & VRIJ</title>
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+
+    <body bgcolor="#0d253d">
+        <div>
+            <img class="logo1" src="assets/00-landing/Logo-Transparency_new_dutch.png">
+        </div>
+        <div>
+          <nav role="navigation">
+            <div id="menuToggle">
+                <!--Checkbox-hide = click reciever-->
+                <input type="checkbox" id="menuCheckbox" />
+
+                <!--Create hamburger-->
+                <span></span>
+                <span></span>
+                <span></span>
+                <!--Menu-details-->               
+                <ul id="menu">
+                    <li>
+                        <a href="#">
+                            <label for="menuCheckbox" onclick="this.parentNode.click();">Home</label>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#about">
+                            <label for="menuCheckbox" onclick="this.parentNode.click();">About</label>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#hulpbronnen">
+                            <label for="menuCheckbox" onclick="this.parentNode.click();">Hulpbronnen</label>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#index.blog.html">
+                            <label for="menuCheckbox" onclick="this.parentNode.click();">Blog</label>
+                        </a>
+                    </li>
+                    <li><label for="menuCheckbox"><a>Close Menu</a></label></li>
+                </ul>
+            </div>
+          </nav>
+        </div>  
+
+      <div class="question1">
+            Hoe Navigeer jij het Leven?
+      </div>
+
+      <div id="wrapper">
+        <div id="featured">
+          <video poster="assets/vv-load.jpg" autoplay="true" muted="true" loop>
+            <source src="assets/00-landing/homepage-extra-kort-5mb-.mp4" type="video/mp4" />
+          </video>
+        </div>
+      </div>
+        
+      <div class="mind"><p>Schrijf je in voor de nieuwsbrief!
+        <br>Dan ben je steeds op de hoogte van onze bijeenkomsten, cursussen en dagblad.</p> 
+      </div>
+    </body>
+</html> 
