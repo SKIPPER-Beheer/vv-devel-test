@@ -1,0 +1,29 @@
+---
+layout: timeline-entry
+title: "Plakkaat van Verlatinghe"
+year: 1581 
+image: "/timeline/assets/tl-00001.jpg"
+header-img: "/timeline/assets/tl-00001.jpg" 
+post_url: "/timeline/YEAR-1581"
+abstract: "Op 22-Juli wordt het 'Plakkaat van Verlatinghe' geschreven en binnen 7 dagen ondetekend. Nadien is het in gedrukte vorm uitgegeven. De gedrukte tekst vormt de grondlsag van de kennis van de inhoud."
+--- 
+
+
+
+Het eerste deel van het plakkaat, zet de toon: 
+
+>Het is aan ieder bekend dat een vorst, als dienaar van God, geacht wordt zijn onderdanen te __beschermen tegen alle onrecht, overlast en geweld__, zoals een herder zijn schapen beschermt. De onderdanen zijn niet door God geschapen om de vorst in __alles__ wat hij beveelt __onderdanig__ te zijn en hem als slaven te dienen. De vorst regeert bij de gratie van zijn onderdanen en moet met __recht__ en reden over hen regeren, hen beschermen en liefhebben zoals een vader zijn kinderen liefheeft en zoals een herder met hart en ziel zijn schapen beschermt. __Als een vorst zijn plichten niet nakomt__, maar, in plaats van zijn onderdanen te beschermen, __hen probeert te onderdrukken als slaven__, dan is hij geen vorst, maar een tiran. In dat geval mogen zijn onderdanen, na beraadslaging in de Staten-Generaal, hem afzweren en een andere leider kiezen.
+Dit recht hebben zij te meer als ze hun vorst niet met vreedzame middelen van zijn tirannieke neigingen hebben kunnen genezen. __In dat geval hebben ze geen andere middelen om hun natuurlijke vrijheid, waarvoor men zich met hart en ziel dient in te zetten, veilig te stellen__. Daarvan zijn diverse voorbeelden bekend uit andere landen en andere tijden.
+
+Dit zijn voor ons geen vreemde gedachten, echter, we leven in een tijd waarin men zich erg drukt maakt over het zichzelf plaatsen "buiten de rechtsorde". 
+
+Hierin zitten een aantal aannames: 
+1. dat de ordening die we kennen, recht is;
+2. dat die onaantastbaar is tenzij je 3/4 van de 2e Kamer en 1e Kamer hebt weten te veroveren;
+3. dat er geen ambtenaren zijn die dat frustreren;
+4. dat het kiessysteem recht is;
+5. dat er eigenlijk geen vuiltje aan de lucht is. 
+
+Wanneer je het vervolg wil lezen: ga dan naar: [Nederlandse onafhankelijkheid](https://www.nederlandseonafhankelijkheid.nl/geschiedenis/placcaat-van-verlatinghe-in-modern-nederlands/) zodat je kennis drager wordt en vergelijkingen en afwegingen kunt maken met de huidige tijd. 
+
+![Zegel der Onafhankelijke Staten-Generaal](/timeline/assets/tl-00005.jpg)
